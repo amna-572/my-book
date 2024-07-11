@@ -1,0 +1,6 @@
+[book]
+authors = ["Amna Batool"]
+language = "en"
+multilingual = false
+src = "src"
+title = "AIReport"
